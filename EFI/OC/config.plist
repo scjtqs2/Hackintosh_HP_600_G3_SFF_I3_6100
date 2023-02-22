@@ -160,8 +160,6 @@
                     <data>AQAAAA==</data>
                     <key>framebuffer-con3-has-lspcon</key>
                     <data>AQAAAA==</data>
-                    <key>framebuffer-con3-preferred-lspcon-mode</key>
-                    <data>AQAAAA==</data>
                     <key>framebuffer-patch-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-unifiedmem</key>
@@ -417,7 +415,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.0|intel wifi</string>
+                    <string>V2.1.0 |intel wifi</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -805,7 +803,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v alcid=20 -igfxcdc -igfxmlr -igfxmpc igfxfcms=1 igfxonln=1 igfxmetal=1 igfxrpsc=1</string>
+                    <string>-v rtcfx_exclude=58-59,B0-B3,D0-DF  alcid=20 -igfxcdc -igfxmlr -igfxmpc igfxfcms=1 igfxonln=1 igfxmetal=1 igfxrpsc=1</string>
                     <key>csr-active-config</key>
                     <data>5wMAAA==</data>
                     <key>prev-lang:kbd</key>
